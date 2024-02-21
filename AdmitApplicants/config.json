@@ -1,0 +1,12 @@
+{
+  "dev": {
+    "supabase_url": "https://[project].supabase.co",
+    "supabase_key": "anon key",
+    "supabase_secret_key": ""
+  },
+  "prod": {
+    "supabase_url": "https://[project].supabase.co",
+    "supabase_key": "anon key",
+    "supabase_secret_key": ""
+  }
+}
